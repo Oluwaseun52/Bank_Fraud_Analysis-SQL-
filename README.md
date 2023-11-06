@@ -9,13 +9,20 @@ This project focused on analyzing fraudulent transactions in a bank using SQL to
 In this project, I aimed to:
 
 -- Determine the number of transactions that occurred per transaction type.
--- Identify the transaction type with the highest number of fraudulent transactions.
--- Calculate the average fraudulent transaction amount.
--- Find the maximum fraudulent transaction amount.
--- Discover the minimum fraudulent transaction amount.
--- Identify the top 10 customers with the highest amount defrauded.
--- Evaluate the bank's effectiveness in flagging fraud.
--- Identify the top 20 fraudsters.
--- SQL Queries
 
+-- Identify the transaction type with the highest number of fraudulent transactions.
+
+-- Calculate the average fraudulent transaction amount.
+
+-- Find the maximum fraudulent transaction amount.
+
+-- Discover the minimum fraudulent transaction amount.
+
+-- Identify the top 10 customers with the highest amount defrauded.
+
+-- Evaluate the bank's effectiveness in flagging fraud.
+
+-- Identify the top 20 fraudsters.
+
+##SQL Queries
 The project involved writing SQL queries to extract and analyze data related to fraudulent transactions. The query file to the questions is included in the project file.
