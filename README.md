@@ -18,3 +18,14 @@ In this project, I aimed to:
 
 ## SQL Queries
 The project involved writing SQL queries to extract and analyze data related to fraudulent transactions. The query file to the questions is included in the project file.
+
+## Insight
+The bank's ability to flag fraudulent transactions was quite poor. It successfully identified only 32 transactions as fraudulent, while failing to flag 16,394 transactions that were, indeed, fraudulent.
+
+## Recommendations
+In light of the project's findings, it is advisable for the bank to consider the following recommendations to improve its fraud detection and prevention measures.
+- Enhance Fraud Detection Algorithms: Invest in more robust fraud detection algorithms that can better identify suspicious transactions, thereby reducing the number of undetected fraudulent cases.
+- Continuous Monitoring: Implement real-time or near-real-time transaction monitoring to promptly detect and respond to fraudulent activities.
+- Customer Education: Educate customers about safe online banking practices and how to recognize potential fraud. Customer awareness can contribute to early detection.
+- Transaction Verification: Implement additional verification steps for high-value or unusual transactions to reduce the risk of fraudulent activities.
+- Regular Training: Train bank staff and security teams to stay updated on the latest fraud trends and techniques, enabling them to adapt and respond effectively.
